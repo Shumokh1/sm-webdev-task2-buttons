@@ -31,4 +31,4 @@ Task 2: Develop a web page that displays the latest button clicked from a MySQL 
 2. The page will display the latest button clicked and was saved my the database
 
 ## Web Page Preview
-![Web Page Preview](display)
+![Web Page Preview](display.png)
