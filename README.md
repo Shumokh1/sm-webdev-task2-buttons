@@ -28,7 +28,7 @@ Task 2: Develop a web page that displays the latest button clicked from a MySQL 
 
 ## Usage
 1. Open your web browser and navigate to `localhost/your_folder_name`.
-2. The page will display the latest button clicked and was saved my the database
+2. The page will display the latest button clicked and was saved in the database
 
 ## Web Page Preview
 ![Web Page Preview](display.png)
