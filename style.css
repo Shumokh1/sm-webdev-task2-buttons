@@ -1,5 +1,5 @@
 body {
-    background-image: url('bg2.jpeg'); /* Adjust the path as needed */
+    background-image: url('bg2.jpeg');
     background-size: cover; 
     background-position: center;  
     background-repeat: no-repeat; 
@@ -9,5 +9,5 @@ body {
   }
 
 h1 {
-    color: #e0e0e0; /* Slightly lighter gray for heading */
+    color: #e0e0e0; 
 }
